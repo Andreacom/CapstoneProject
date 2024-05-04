@@ -1,0 +1,624 @@
+﻿CourseID;Title;Supplier;Difficulty;Type;Duration;Cost
+0;Google Cybersecurity;Google;Beginner;Professional Certificate;3 - 6 Months;3044
+1;Google Data Analytics;Google;Beginner;Professional Certificate;3 - 6 Months;2388
+3;Google Project Management:;Google;Beginner;Professional Certificate;3 - 6 Months;1071
+4;IBM Data Science;IBM;Beginner;Professional Certificate;3 - 6 Months;3386
+5;Google Digital Marketing & E-commerce;Google;Beginner;Professional Certificate;3 - 6 Months;4341
+6;IBM Data Analyst;IBM;Beginner;Professional Certificate;3 - 6 Months;1726
+7;Google IT Support;Google;Beginner;Professional Certificate;3 - 6 Months;4930
+9;Machine Learning;Multiple educators;Beginner;Specialization;1 - 3 Months;973
+11;Google UX Design;Google;Beginner;Professional Certificate;3 - 6 Months;1827
+13;IBM DevOps and Software Engineering;IBM;Beginner;Professional Certificate;3 - 6 Months;4512
+14;IBM Applied AI;IBM;Beginner;Professional Certificate;3 - 6 Months;4103
+15;IBM Full Stack Software Developer;IBM;Beginner;Professional Certificate;3 - 6 Months;3831
+16;Introduction to Data Science;IBM;Beginner;Specialization;3 - 6 Months;3354
+17;Data Science Fundamentals with Python and SQL;IBM;Beginner;Specialization;3 - 6 Months;4177
+18;IBM Data Engineering;IBM;Beginner;Professional Certificate;3 - 6 Months;1862
+19;Key Technologies for Business;IBM;Beginner;Specialization;1 - 3 Months;1192
+20;IBM & Darden Digital Strategy;University of Virginia Darden School Foundation;Beginner;Specialization;3 - 6 Months;388
+21;Deep Learning;DeepLearning.AI;Intermediate;Specialization;3 - 6 Months;1054
+22;Data Engineering Foundations;IBM;Beginner;Specialization;3 - 6 Months;3044
+23;Applied Data Science;IBM;Beginner;Specialization;3 - 6 Months;2590
+24;IBM Back-End Development;IBM;Beginner;Professional Certificate;3 - 6 Months;1719
+25;IBM AI Foundations for Business;IBM;Beginner;Specialization;1 - 3 Months;589
+26;IBM Data Analytics with Excel and R;IBM;Beginner;Professional Certificate;3 - 6 Months;4685
+27;Data Analysis and Visualization Foundations;IBM;Beginner;Specialization;3 - 6 Months;2024
+28;Applied Software Engineering Fundamentals;IBM;Beginner;Specialization;3 - 6 Months;2866
+29;Prompt Engineering;Vanderbilt University;Beginner;Specialization;1 - 3 Months;1251
+30;AI Foundations for Everyone;IBM;Beginner;Specialization;3 - 6 Months;3179
+31;Generative AI with Large Language Models;DeepLearning.AI;Intermediate;Course;1 - 4 Weeks;4287
+32;Cloud Application Development Foundations;IBM;Beginner;Specialization;3 - 6 Months;4496
+33;DevOps, Cloud, and Agile Foundations;IBM;Beginner;Specialization;3 - 6 Months;1738
+34;Google Advanced Data Analytics;Google;Advanced;Professional Certificate;3 - 6 Months;1765
+35;IBM and ISC2 Cybersecurity Specialist;Multiple educators;Beginner;Professional Certificate;3 - 6 Months;3664
+36;IBM IT Support;IBM;Beginner;Professional Certificate;3 - 6 Months;341
+37;Business Intelligence (BI) Analyst;IBM;Beginner;Professional Certificate;3 - 6 Months;1520
+38;Meta Front-End Developer;Meta;Beginner;Professional Certificate;3 - 6 Months;1788
+39;Generative AI Fundamentals;IBM;Beginner;Specialization;3 - 6 Months;296
+40;Information Technology (IT) and Cloud Fundamentals;IBM;Beginner;Specialization;3 - 6 Months;4223
+41;Microsoft Power BI Data Analyst;Microsoft;Beginner;Professional Certificate;3 - 6 Months;487
+42;Generative AI for Everyone;DeepLearning.AI;Beginner;Course;1 - 4 Weeks;2490
+43;IBM AI Engineering;IBM;Intermediate;Professional Certificate;3 - 6 Months;4942
+44;IBM IT Project Manager;IBM;Beginner;Professional Certificate;3 - 6 Months;4459
+45;IBM Data Warehouse Engineer;IBM;Beginner;Professional Certificate;3 - 6 Months;4053
+46;Generative AI for Software Developers;IBM;Intermediate;Specialization;1 - 3 Months;4779
+47;Generative AI for Data Scientists;IBM;Intermediate;Specialization;1 - 3 Months;859
+48;Foundations of Cybersecurity;Google;Beginner;Course;1 - 4 Weeks;4772
+49;Foundations of Project Management;Google;Beginner;Course;1 - 4 Weeks;1553
+50;Supervised Machine Learning: Regression and Classification;DeepLearning.AI;Beginner;Course;1 - 4 Weeks;1476
+51;BI Foundations with SQL, ETL and Data Warehousing;IBM;Beginner;Specialization;3 - 6 Months;2787
+52;Foundations: Data, Data, Everywhere;Google;Beginner;Course;1 - 3 Months;4316
+53;Mathematics for Machine Learning and Data Science;DeepLearning.AI;Beginner;Specialization;1 - 3 Months;3961
+54;IBM Full-Stack JavaScript Developer;IBM;Beginner;Professional Certificate;3 - 6 Months;505
+55;Business Foundations;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;2228
+56;Google IT Automation with Python;Google;Beginner;Professional Certificate;3 - 6 Months;3896
+57;AI For Everyone;DeepLearning.AI;Beginner;Course;1 - 4 Weeks;4968
+58;IBM IT Scrum Master;IBM;Beginner;Professional Certificate;3 - 6 Months;1298
+59;Python for Everybody;University of Michigan;Beginner;Specialization;3 - 6 Months;2663
+60;IBM Project Manager;IBM;Beginner;Professional Certificate;3 - 6 Months;1093
+61;IBM Applied DevOps Engineering;IBM;Intermediate;Professional Certificate;3 - 6 Months;1699
+62;AI in Healthcare;Stanford University;Beginner;Specialization;3 - 6 Months;2927
+63;IBM Front-End Developer;IBM;Beginner;Professional Certificate;3 - 6 Months;2955
+64;IBM Cybersecurity Analyst;IBM;Beginner;Professional Certificate;3 - 6 Months;420
+65;IBM Back-end JavaScript Developer;IBM;Beginner;Professional Certificate;3 - 6 Months;2454
+66;Meta Social Media Marketing;Meta;Beginner;Professional Certificate;3 - 6 Months;280
+67;Meta React Native;Meta;Beginner;Specialization;3 - 6 Months;558
+68;Finance & Quantitative Modeling for Analysts;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;2769
+69;Technical Support Fundamentals;Google;Beginner;Course;1 - 3 Months;1279
+70;Natural Language Processing;DeepLearning.AI;Intermediate;Specialization;3 - 6 Months;4454
+71;DeepLearning.AI TensorFlow Developer;DeepLearning.AI;Intermediate;Professional Certificate;3 - 6 Months;401
+72;Introduction to Finance and Accounting;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;2707
+73;IT Fundamentals for Cybersecurity;IBM;Beginner;Specialization;3 - 6 Months;4186
+74;Foundations of Digital Marketing and E-commerce;Google;Beginner;Course;1 - 4 Weeks;4483
+75;Machine Learning Engineering for Production (MLOps);DeepLearning.AI;Advanced;Specialization;3 - 6 Months;4361
+76;Meta Back-End Developer;Meta;Beginner;Professional Certificate;3 - 6 Months;2373
+77;Intuit Academy Bookkeeping;Intuit;Beginner;Professional Certificate;3 - 6 Months;2325
+78;Meta iOS Developer;Meta;Beginner;Professional Certificate;3 - 6 Months;4501
+79;Meta Android Developer;Meta;Beginner;Professional Certificate;3 - 6 Months;3368
+80;Prompt Engineering for ChatGPT;Vanderbilt University;Beginner;Course;1 - 3 Months;2027
+81;Play It Safe: Manage Security Risks;Google;Beginner;Course;1 - 4 Weeks;1117
+82;AI For Business;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;1152
+83;Business and Financial Modeling;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;4137
+84;Foundations of User Experience (UX) Design;Google;Beginner;Course;1 - 4 Weeks;3982
+85;Google Business Intelligence;Google;Advanced;Professional Certificate;3 - 6 Months;4503
+86;Meta Database Engineer;Meta;Beginner;Professional Certificate;3 - 6 Months;4543
+87;Project Initiation: Starting a Successful Project;Google;Beginner;Course;1 - 4 Weeks;184
+88;Ask Questions to Make Data-Driven Decisions;Google;Beginner;Course;1 - 4 Weeks;4559
+89;Microsoft 365 Fundamentals;Microsoft;Beginner;Specialization;3 - 6 Months;2365
+90;Microsoft Cybersecurity Analyst;Microsoft;Beginner;Professional Certificate;3 - 6 Months;3486
+91;Advanced Learning Algorithms;DeepLearning.AI;Beginner;Course;1 - 4 Weeks;983
+92;Become a CBRS Certified Professional Installer by Google;Google - Spectrum Sharing;Mixed;Course;1 - 3 Months;3992
+93;Financial Markets;Yale University;Beginner;Course;1 - 3 Months;1616
+94;HRCI Human Resource Associate;HRCI;Beginner;Professional Certificate;3 - 6 Months;1984
+95;Excel Skills for Business;Macquarie University;Beginner;Specialization;3 - 6 Months;3780
+96;The Bits and Bytes of Computer Networking;Google;Beginner;Course;1 - 3 Months;2235
+97;IBM Machine Learning;IBM;Intermediate;Professional Certificate;3 - 6 Months;2958
+98;Indigenous Canada;University of Alberta;Mixed;Course;1 - 3 Months;2661
+99;Connect and Protect: Networks and Network Security;Google;Beginner;Course;1 - 4 Weeks;1464
+100;Preparing for Google Cloud Certification: Cloud Architect;Google Cloud;Intermediate;Professional Certificate;3 - 6 Months;4486
+101;Neural Networks and Deep Learning;DeepLearning.AI;Intermediate;Course;1 - 4 Weeks;3835
+102;Business Analytics;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;2695
+104;Preparing for Google Cloud Certification: Cloud Engineer;Google Cloud;Intermediate;Professional Certificate;3 - 6 Months;4564
+105;IBM Introduction to Machine Learning;IBM;Intermediate;Specialization;3 - 6 Months;747
+106;Modern Project Management;SkillUp EdTech;Beginner;Specialization;3 - 6 Months;1637
+107;Preparing for Google Cloud Certification: Machine Learning Engineer;Google Cloud;Intermediate;Professional Certificate;3 - 6 Months;939
+108;Architecting with Google Compute Engine;Google Cloud;Intermediate;Specialization;3 - 6 Months;3752
+109;SAP Technology Consultant;SAP;Beginner;Professional Certificate;3 - 6 Months;2916
+110;JavaScript Programming with React, Node & MongoDB;IBM;Beginner;Specialization;3 - 6 Months;706
+111;Digital Product Management;University of Virginia;Beginner;Specialization;3 - 6 Months;1263
+112;Graphic Design;California Institute of the Arts;Beginner;Specialization;3 - 6 Months;1654
+113;Python for Data Science, AI & Development;IBM;Beginner;Course;1 - 3 Months;192
+114;AWS Cloud Solutions Architect;Amazon Web Services;Intermediate;Professional Certificate;3 - 6 Months;278
+115;Preparing for Google Cloud Certification: Cloud Security Engineer;Google Cloud;Intermediate;Professional Certificate;3 - 6 Months;3799
+116;AWS Cloud Technology Consultant;Amazon Web Services;Beginner;Professional Certificate;3 - 6 Months;4303
+117;Preparing for Google Cloud Certification: Cloud Data Engineer;Google Cloud;Intermediate;Professional Certificate;3 - 6 Months;3138
+118;Data Analysis and Presentation Skills: the PwC Approach;PwC;Beginner;Specialization;3 - 6 Months;188
+119;AWS Fundamentals;Amazon Web Services;Beginner;Specialization;1 - 3 Months;1075
+120;Learn SQL Basics for Data Science;University of California, Davis;Beginner;Specialization;3 - 6 Months;1268
+121;Leadership Skills;IIMA - IIM Ahmedabad;Beginner;Course;1 - 3 Months;1208
+122;Introduction to Generative AI;Google Cloud;Beginner;Course;1 - 4 Weeks;1136
+123;Tools of the Trade: Linux and SQL;Google;Beginner;Course;1 - 4 Weeks;316
+124;Data Engineering, Big Data, and Machine Learning on GCP;Google Cloud;Intermediate;Specialization;3 - 6 Months;796
+125;Construction Management;Columbia University;Beginner;Specialization;3 - 6 Months;1737
+126;CybersÃ©curitÃ© Google;Google;Beginner;Professional Certificate;3 - 6 Months;4057
+127;Ciberseguridad de Google;Google;Beginner;Professional Certificate;3 - 6 Months;2093
+128;Preparing for Google Cloud Certification: Cloud Developer;Google Cloud;Intermediate;Professional Certificate;3 - 6 Months;739
+129;Project Planning: Putting It All Together;Google;Beginner;Course;1 - 3 Months;2877
+130;Search Engine Optimization (SEO);University of California, Davis;Beginner;Specialization;3 - 6 Months;2532
+131;Data Structures and Algorithms;University of California San Diego;Intermediate;Specialization;3 - 6 Months;644
+132;Preparing for Google Cloud Certification: Cloud Network Engineer;Google Cloud;Intermediate;Professional Certificate;3 - 6 Months;1954
+133;Attract and Engage Customers with Digital Marketing;Google;Beginner;Course;1 - 4 Weeks;213
+134;Introduction to Psychology;Yale University;Beginner;Course;1 - 3 Months;1783
+136;Networking in Google Cloud;Google Cloud;Intermediate;Specialization;3 - 6 Months;3231
+137;Linear Algebra for Machine Learning and Data Science;DeepLearning.AI;Beginner;Course;1 - 4 Weeks;1921
+138;Developing Applications with Google Cloud;Google Cloud;Intermediate;Specialization;3 - 6 Months;3361
+139;Security in Google Cloud;Google Cloud;Intermediate;Specialization;3 - 6 Months;2351
+140;ChatGPT Advanced Data Analysis;Vanderbilt University;Beginner;Course;1 - 3 Months;3341
+141;Digital Marketing;University of Illinois at Urbana-Champaign;Beginner;Specialization;3 - 6 Months;489
+142;What is Data Science?;IBM;Beginner;Course;1 - 4 Weeks;2507
+143;GestiÃ³n de Proyectos de Google;Google;Beginner;Professional Certificate;3 - 6 Months;3607
+144;Business Strategy;University of Virginia;Beginner;Specialization;3 - 6 Months;1764
+145;HTML, CSS, and Javascript for Web Developers;Johns Hopkins University;Mixed;Course;1 - 3 Months;1737
+146;Applied Data Science with Python;University of Michigan;Intermediate;Specialization;3 - 6 Months;2293
+147;Google ãƒ‡ãƒ¼ã‚¿ã‚¢ãƒŠãƒªãƒ†ã‚£ã‚¯ã‚¹;Google;Beginner;Professional Certificate;3 - 6 Months;1306
+148;Foundations of Positive Psychology;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;4214
+149;Introduction to Data Analytics;IBM;Beginner;Course;1 - 3 Months;3960
+150;DevOps on AWS;Amazon Web Services;Intermediate;Specialization;1 - 3 Months;1645
+151;Mathematics for Machine Learning;Imperial College London;Beginner;Specialization;3 - 6 Months;2769
+152;Certified in Cybersecurity;ISC2;Beginner;Specialization;3 - 6 Months;2849
+153;Start the UX Design Process: Empathize, Define, and Ideate;Google;Beginner;Course;1 - 4 Weeks;2555
+154;Connected Leadership;Yale University;Beginner;Course;1 - 3 Months;4541
+155;Unsupervised Learning, Recommenders, Reinforcement Learning;DeepLearning.AI;Beginner;Course;1 - 4 Weeks;3100
+156;Supply Chain Management;Rutgers the State University of New Jersey;Beginner;Specialization;3 - 6 Months;2838
+157;TESOL Certificate, Part 1: Teach English Now!;Arizona State University;Beginner;Specialization;3 - 6 Months;2710
+158;Reinforcement Learning;University of Alberta;Intermediate;Specialization;3 - 6 Months;773
+159;Tableau Business Intelligence Analyst;Tableau Learning Partner;Beginner;Professional Certificate;3 - 6 Months;4349
+160;Process Data from Dirty to Clean;Google;Beginner;Course;1 - 3 Months;314
+161;Generative Adversarial Networks (GANs);DeepLearning.AI;Intermediate;Specialization;1 - 3 Months;4988
+162;Improve Your English Communication Skills;Georgia Institute of Technology;Beginner;Specialization;3 - 6 Months;1276
+163;Agile Project Management;Google;Beginner;Course;1 - 4 Weeks;2511
+164;Security Analyst Fundamentals;IBM;Beginner;Specialization;3 - 6 Months;555
+165;Data Science;Johns Hopkins University;Beginner;Specialization;3 - 6 Months;433
+166;Google Marketing Digital e E-Commerce;Google;Beginner;Professional Certificate;3 - 6 Months;2586
+167;Meta Marketing Analytics;Meta;Beginner;Professional Certificate;3 - 6 Months;4800
+168;NoSQL, Big Data, and Spark Foundations;IBM;Beginner;Specialization;3 - 6 Months;1418
+169;Accelerated Computer Science Fundamentals;University of Illinois at Urbana-Champaign;Intermediate;Specialization;1 - 3 Months;3334
+170;Regulatory Compliance;University of Pennsylvania;Intermediate;Specialization;3 - 6 Months;1403
+171;AI Product Management;Duke University;Beginner;Specialization;3 - 6 Months;163
+172;Introduction to Programming with Python and Java;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;4916
+173;Mergers and Acquisitions;University of Illinois at Urbana-Champaign;Intermediate;Specialization;3 - 6 Months;991
+174;Operating Systems and You: Becoming a Power User;Google;Beginner;Course;1 - 3 Months;2617
+175;Data Science: Foundations using R;Johns Hopkins University;Beginner;Specialization;3 - 6 Months;2863
+176;Achieving Personal and Professional Success;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;1115
+177;Artificial Intelligence in Marketing;University of Virginia;Beginner;Course;1 - 4 Weeks;3743
+178;Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization;DeepLearning.AI;Intermediate;Course;1 - 4 Weeks;3611
+179;Business Analytics with Excel: Elementary to Advanced;Johns Hopkins University;Intermediate;Course;1 - 3 Months;3967
+180;Leading People and Teams;University of Michigan;Beginner;Specialization;3 - 6 Months;1045
+181;AI for Good;DeepLearning.AI;Beginner;Specialization;1 - 3 Months;4178
+182;Project Execution: Running the Project;Google;Beginner;Course;1 - 3 Months;3026
+183;UCI Project Management;University of California, Irvine;Beginner;Professional Certificate;3 - 6 Months;1000
+184;(ISC)Â² Systems Security Certified Practitioner (SSCP);ISC2;Beginner;Specialization;3 - 6 Months;3394
+185;Crash Course on Python;Google;Beginner;Course;1 - 3 Months;2704
+186;Programming for Everybody (Getting Started with Python);University of Michigan;Beginner;Course;1 - 3 Months;1661
+187;Entrepreneurship;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;2391
+188;People and Soft Skills for Professional and Personal Success;IBM;Beginner;Specialization;1 - 3 Months;1032
+189;Salesforce Sales Operations;Salesforce;Beginner;Professional Certificate;3 - 6 Months;4917
+190;Influencing: Storytelling, Change Management and Governance;Macquarie University;Beginner;Specialization;3 - 6 Months;3701
+191;Generative AI: Introduction and Applications;IBM;Beginner;Course;1 - 4 Weeks;3418
+192;Assets, Threats, and Vulnerabilities;Google;Beginner;Course;1 - 4 Weeks;315
+193;Genomic Data Science;Johns Hopkins University;Intermediate;Specialization;3 - 6 Months;1174
+194;The Business of Health Care;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;579
+195;DiseÃ±o de Experiencia del Usuario (UX) de Google;Google;Beginner;Professional Certificate;3 - 6 Months;1670
+196;Organizational Analysis;Stanford University;Beginner;Course;1 - 3 Months;4181
+197;Six Sigma Yellow Belt;University System of Georgia;Beginner;Specialization;3 - 6 Months;1078
+198;Analyze Data to Answer Questions;Google;Beginner;Course;1 - 4 Weeks;511
+199;Strategic Leadership and Management;University of Illinois at Urbana-Champaign;Beginner;Specialization;3 - 6 Months;4664
+200;Machine Learning on Google Cloud;Google Cloud;Intermediate;Specialization;3 - 6 Months;177
+201;Cybersecurity Fundamentals;IBM;Beginner;Specialization;3 - 6 Months;755
+202;Human Resource Management: HR for People Managers;University of Minnesota;Beginner;Specialization;3 - 6 Months;3473
+203;U.S. Federal Taxation;University of Illinois at Urbana-Champaign;Intermediate;Specialization;3 - 6 Months;4176
+204;Algorithms for Battery Management Systems;University of Colorado Boulder;Intermediate;Specialization;3 - 6 Months;3469
+205;Google Project Management;Google;Beginner;Professional Certificate;3 - 6 Months;4817
+206;Fundamentals of Project Planning and Management;University of Virginia;Beginner;Course;1 - 4 Weeks;3523
+207;Medical Billing and Coding Fundamentals;MedCerts;Beginner;Specialization;3 - 6 Months;1418
+208;Data Analysis with R Programming;Google;Beginner;Course;1 - 3 Months;1544
+209;Product Ideation, Design, and Management;University of Maryland, College Park;Beginner;Specialization;3 - 6 Months;1021
+210;Global Procurement and Sourcing;Rutgers the State University of New Jersey;Beginner;Specialization;3 - 6 Months;1707
+211;Sound the Alarm: Detection and Response;Google;Beginner;Course;1 - 4 Weeks;483
+212;Excel Basics for Data Analysis;IBM;Beginner;Course;1 - 3 Months;1665
+213;Introduction to Calculus;The University of Sydney;Intermediate;Course;1 - 3 Months;965
+214;MATLAB Programming for Engineers and Scientists;Vanderbilt University;Beginner;Specialization;3 - 6 Months;3065
+215;Medical Terminology;Rice University;Beginner;Specialization;3 - 6 Months;2067
+216;System Administration and IT Infrastructure Services;Google;Beginner;Course;1 - 3 Months;2095
+217;Capstone: Applying Project Management in the Real World;Google;Beginner;Course;1 - 4 Weeks;177
+218;Private Equity and Venture Capital;UniversitÃ  Bocconi;Mixed;Course;1 - 3 Months;1447
+219;Management Consulting;Emory University;Beginner;Specialization;3 - 6 Months;2141
+220;Share Data Through the Art of Visualization;Google;Beginner;Course;1 - 4 Weeks;1630
+221;Financial Engineering and Risk Management;Columbia University;Intermediate;Specialization;3 - 6 Months;1224
+222;Project Management;University of Colorado Boulder;Beginner;Specialization;1 - 3 Months;1108
+223;Management of Fashion and Luxury Companies;UniversitÃ  Bocconi;Mixed;Course;1 - 3 Months;3006
+224;Automate Cybersecurity Tasks with Python;Google;Beginner;Course;1 - 4 Weeks;1303
+225;Microsoft Azure Fundamentals AZ-900 Exam Prep;Microsoft;Beginner;Specialization;3 - 6 Months;461
+226;Build Wireframes and Low-Fidelity Prototypes;Google;Beginner;Course;1 - 4 Weeks;3930
+227;Databases and SQL for Data Science with Python;IBM;Beginner;Course;1 - 3 Months;4756
+228;The Business of Music Production;Berklee;Beginner;Specialization;3 - 6 Months;2512
+229;Practical Data Science on the AWS Cloud;Multiple educators;Advanced;Specialization;1 - 3 Months;4795
+230;Java Programming and Software Engineering Fundamentals;Duke University;Beginner;Specialization;3 - 6 Months;3318
+231;Google Professional Workspace Administrator;Google Cloud;Beginner;Professional Certificate;1 - 4 Weeks;2878
+232;Scrum Master Certification;LearnQuest;Beginner;Specialization;3 - 6 Months;1176
+233;The Strategy of Content Marketing;University of California, Davis;Intermediate;Course;1 - 3 Months;2712
+234;Introduction to Front-End Development;Meta;Beginner;Course;1 - 4 Weeks;988
+235;Six Sigma Black Belt;University System of Georgia;Intermediate;Specialization;3 - 6 Months;2289
+236;Introduction to Cybersecurity Tools & Cyber Attacks;IBM;Beginner;Course;1 - 4 Weeks;645
+237;Financial Management;University of Illinois at Urbana-Champaign;Intermediate;Specialization;3 - 6 Months;3896
+238;Food Sustainability, Mindful Eating, and Healthy Cooking;Stanford University;Beginner;Specialization;1 - 3 Months;1083
+239;Calculus for Machine Learning and Data Science;DeepLearning.AI;Beginner;Course;1 - 4 Weeks;4824
+240;Music Production;Berklee;Beginner;Specialization;3 - 6 Months;4666
+241;Python Project for Data Science;IBM;Intermediate;Course;1 - 4 Weeks;4912
+242;Game Design: Art and Concepts;California Institute of the Arts;Beginner;Specialization;3 - 6 Months;3441
+243;Investment Management;University of Geneva;Beginner;Specialization;3 - 6 Months;3566
+244;Bayesian Statistics;University of California, Santa Cruz;Intermediate;Specialization;3 - 6 Months;111
+245;Financial Analysis - Skills for Success;University of Illinois at Urbana-Champaign;Beginner;Specialization;1 - 3 Months;3506
+246;Salesforce Sales Development Representative;Salesforce;Beginner;Professional Certificate;3 - 6 Months;261
+247;Introduction to Marketing;University of Pennsylvania;Mixed;Course;1 - 3 Months;1454
+248;Human Resources Analytics;University of California, Irvine;Mixed;Course;1 - 4 Weeks;4103
+249;Photography Basics and Beyond: From Smartphone to DSLR;Michigan State University;Beginner;Specialization;3 - 6 Months;632
+250;The Singer Songwriter;Berklee;Beginner;Specialization;3 - 6 Months;2253
+251;CompTIA a+_ cyber;CompTIA;Beginner;Specialization;1 - 3 Months;3661
+252;Contabilidad para no contadores;Universidad Nacional AutÃ³noma de MÃ©xico;Beginner;Course;1 - 3 Months;114
+253;Coding for Everyone: C and C++;University of California, Santa Cruz;Beginner;Specialization;3 - 6 Months;1206
+254;Business Statistics and Analysis;Rice University;Beginner;Specialization;3 - 6 Months;1980
+255;Object Oriented Programming in Java;Multiple educators;Beginner;Specialization;3 - 6 Months;1061
+256;Six Sigma Green Belt;University System of Georgia;Intermediate;Specialization;3 - 6 Months;4044
+257;Microsoft Azure Data Fundamentals DP-900 Exam Prep;Microsoft;Beginner;Specialization;3 - 6 Months;362
+258;Programming in C++: A Hands-on Introduction;Codio;Beginner;Specialization;3 - 6 Months;569
+259;Microsoft Azure Data Scientist Associate (DP-100);Microsoft;Intermediate;Professional Certificate;3 - 6 Months;2553
+260;Google Project Management (PT);Google;Beginner;Professional Certificate;3 - 6 Months;3021
+261;Python Data Structures;University of Michigan;Beginner;Course;1 - 3 Months;4742
+262;Fundamentals of Finance;University of Pennsylvania;Beginner;Course;1 - 3 Months;383
+263;Statistical Analysis with R for Public Health;Imperial College London;Beginner;Specialization;3 - 6 Months;233
+264;Applied Machine Learning in Python;University of Michigan;Intermediate;Course;1 - 4 Weeks;4789
+265;Real-World Product Management;Advancing Women in Tech;Beginner;Specialization;3 - 6 Months;3335
+266;ITIL 4 Exam Preparation;LearnQuest;Mixed;Course;1 - 3 Months;749
+267;Introduction to Data Engineering;IBM;Beginner;Course;1 - 4 Weeks;1473
+268;Google Project Management (DE);Google;Beginner;Professional Certificate;3 - 6 Months;4139
+269;Finance for Technical Managers;University of Colorado Boulder;Beginner;Specialization;3 - 6 Months;1287
+270;Investment Management with Python and Machine Learning;EDHEC Business School;Beginner;Specialization;3 - 6 Months;816
+271;Cybersecurity Attack and Defense Fundamentals;EC-Council;Beginner;Specialization;3 - 6 Months;3913
+272;AI & Law;Lund University;Beginner;Course;1 - 4 Weeks;1557
+273;Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course);Hebrew University of Jerusalem;Mixed;Course;1 - 3 Months;449
+274;Branding: The Creative Journey;IE Business School;Beginner;Specialization;3 - 6 Months;2911
+275;The Manager's Toolkit: A Practical Guide to Managing People at Work;University of London;Mixed;Course;1 - 3 Months;403
+276;Talent Acquisition;HRCI;Beginner;Course;1 - 4 Weeks;4002
+277;Convolutional Neural Networks in TensorFlow;DeepLearning.AI;Intermediate;Course;1 - 4 Weeks;1574
+278;Reducing Gun Violence in America: Evidence for Change;Johns Hopkins University;Beginner;Course;1 - 3 Months;2761
+279;Build Dynamic User Interfaces (UI) for Websites;Google;Beginner;Course;1 - 3 Months;547
+280;Introduction to Discrete Mathematics for Computer Science;University of California San Diego;Beginner;Specialization;3 - 6 Months;3080
+281;Python Programming Fundamentals;Duke University;Beginner;Course;1 - 4 Weeks;2695
+282;Epidemiology in Public Health Practice;Johns Hopkins University;Beginner;Specialization;3 - 6 Months;2519
+283;Foundations of Data Structures and Algorithms;University of Colorado Boulder;Advanced;Specialization;3 - 6 Months;574
+284;Design a User Experience for Social Good & Prepare for Jobs;Google;Beginner;Course;1 - 3 Months;836
+285;Learn to Program: The Fundamentals;University of Toronto;Beginner;Course;1 - 3 Months;1863
+286;Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep;Autodesk;Advanced;Course;1 - 4 Weeks;3532
+287;Site Reliability Engineering: Measuring and Managing Reliability;Google Cloud;Intermediate;Course;1 - 3 Months;3863
+288;Data Mining;University of Illinois at Urbana-Champaign;Intermediate;Specialization;3 - 6 Months;4372
+289;Excel/VBA for Creative Problem Solving;University of Colorado Boulder;Beginner;Specialization;3 - 6 Months;4495
+290;Excel Skills for Data Analytics and Visualization;Macquarie University;Intermediate;Specialization;3 - 6 Months;1428
+291;Modern Robotics:  Mechanics, Planning, and Control;Northwestern University;Intermediate;Specialization;3 - 6 Months;571
+292;Data Visualization with Python;IBM;Intermediate;Course;1 - 3 Months;1941
+293;Trading Strategies in Emerging Markets;Indian School of Business;Beginner;Specialization;3 - 6 Months;4166
+294;Deep Neural Networks with PyTorch;IBM;Intermediate;Course;1 - 3 Months;2126
+295;Learn English: Intermediate Grammar;University of California, Irvine;Intermediate;Specialization;3 - 6 Months;2830
+296;Introduction to Computer Science and Programming;University of London;Beginner;Specialization;3 - 6 Months;1709
+297;Leading Diverse Teams & Organizations;University of Michigan;Beginner;Course;1 - 4 Weeks;987
+298;Introduction to Cyber Security;New York University;Beginner;Specialization;3 - 6 Months;1722
+299;Investment and Portfolio Management;Rice University;Beginner;Specialization;3 - 6 Months;1636
+300;The Pronunciation of American English;University of California, Irvine;Beginner;Specialization;3 - 6 Months;1363
+301;Natural Language Processing with Attention Models;DeepLearning.AI;Intermediate;Course;1 - 4 Weeks;2584
+302;Statistics with Python;University of Michigan;Beginner;Specialization;1 - 3 Months;4865
+303;From Data to Insights with Google Cloud;Google Cloud;Beginner;Specialization;3 - 6 Months;915
+304;GPU Programming;Johns Hopkins University;Intermediate;Specialization;3 - 6 Months;2538
+305;Fundamentals of Machine Learning for Healthcare;Stanford University;Beginner;Course;1 - 3 Months;304
+306;SAP Professional Fundamentals;SAP;Beginner;Course;1 - 3 Months;2330
+307;Introduction to Computers and Operating Systems and Security;Microsoft;Beginner;Course;1 - 4 Weeks;2528
+308;Hands-on Introduction to Linux Commands and Shell Scripting;IBM;Beginner;Course;1 - 4 Weeks;853
+309;PwC GST Taxation Executive;PwC India;Beginner;Professional Certificate;3 - 6 Months;4200
+310;C Programming with Linux;Dartmouth College;Beginner;Specialization;3 - 6 Months;592
+311;Software Development Lifecycle;University of Minnesota;Intermediate;Specialization;3 - 6 Months;3602
+312;Google UX Design (DE);Google;Beginner;Professional Certificate;3 - 6 Months;497
+313;Vital Signs: Understanding What the Body Is Telling Us;University of Pennsylvania;Mixed;Course;1 - 3 Months;3556
+314;Auditing I: Conceptual Foundations of Auditing;University of Illinois at Urbana-Champaign;Intermediate;Course;1 - 3 Months;2361
+315;Write Professional Emails in English;Georgia Institute of Technology;Mixed;Course;1 - 3 Months;3219
+316;Fundamentals of Reinforcement Learning;University of Alberta;Intermediate;Course;1 - 3 Months;3446
+317;Managing Cybersecurity;University System of Georgia;Beginner;Specialization;3 - 6 Months;3969
+318;TensorFlow: Data and Deployment;DeepLearning.AI;Intermediate;Specialization;3 - 6 Months;2159
+319;Learning Linux for LFCA Certification;LearnQuest;Beginner;Specialization;3 - 6 Months;957
+320;Understanding Research Methods;University of London;Mixed;Course;1 - 4 Weeks;1915
+321;Teach English Now! Foundational Principles;Arizona State University;Mixed;Course;1 - 3 Months;3342
+322;Learn English: Advanced Grammar and Punctuation;University of California, Irvine;Advanced;Specialization;3 - 6 Months;4511
+323;Social Media Marketing;Northwestern University;Beginner;Specialization;3 - 6 Months;996
+324;Introductory C Programming;Duke University;Beginner;Specialization;3 - 6 Months;2783
+325;The Sustainable Development Goals â€“ A global, transdisciplinary vision for the future;University of Copenhagen;Beginner;Course;1 - 4 Weeks;1286
+326;Inclusive Leadership: The Power of Workplace Diversity;University of Colorado System;Beginner;Course;1 - 4 Weeks;2368
+327;Supply Chain Logistics;Rutgers the State University of New Jersey;Beginner;Course;1 - 4 Weeks;3995
+328;Systems Biology and Biotechnology;Icahn School of Medicine at Mount Sinai;Intermediate;Specialization;3 - 6 Months;2873
+329;Introduction to Back-End Development;Meta;Beginner;Course;1 - 4 Weeks;1448
+330;Fundamentos del marketing digital y comercio electrÃ³nico;Google;Beginner;Course;1 - 4 Weeks;4523
+331;Sales and CRM Overview;Salesforce;Beginner;Course;1 - 4 Weeks;4674
+332;Gender Analytics: Gender Equity through Inclusive Design;University of Toronto;Beginner;Specialization;3 - 6 Months;4563
+333;IA para todos;DeepLearning.AI;Beginner;Course;1 - 4 Weeks;3277
+334;Google Data Analytics (DE);Google;Beginner;Professional Certificate;3 - 6 Months;2330
+335;Uncommon Sense Teaching;Deep Teaching Solutions;Beginner;Specialization;1 - 3 Months;2246
+336;Introduction to Operations Management;University of Pennsylvania;Beginner;Course;1 - 4 Weeks;2931
+337;Professionalism in Allied Health;MedCerts;Beginner;Course;1 - 3 Months;2149
+338;Industrial IoT Markets and Security;University of Colorado Boulder;Intermediate;Course;1 - 3 Months;3094
+339;Salesforce Fundamentals;University of California, Irvine;Beginner;Specialization;1 - 3 Months;1982
+340;Customer Relationship Management;Starweaver;Beginner;Course;1 - 4 Weeks;3759
+341;Devenir entrepreneur du changement;HEC Paris;Mixed;Course;1 - 3 Months;4809
+342;Sustainable Cities;Johns Hopkins University;Intermediate;Specialization;3 - 6 Months;2525
+343;ØªØµÙ…ÙŠÙ… ØªØ¬Ø±Ø¨Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù… Ù…Ù† Google;Google;Beginner;Professional Certificate;3 - 6 Months;3364
+344;Managerial Economics and Business Analysis;University of Illinois at Urbana-Champaign;Beginner;Specialization;3 - 6 Months;2251
+345;Introduction to Hardware and Operating Systems;IBM;Beginner;Course;1 - 3 Months;1231
+346;Python, Bash and SQL Essentials for Data Engineering;Duke University;Beginner;Specialization;3 - 6 Months;4358
+347;Marketing en redes sociales de Meta;Meta;Beginner;Professional Certificate;3 - 6 Months;1419
+348;Survey Data Collection and Analytics;University of Michigan;Beginner;Specialization;3 - 6 Months;3061
+349;Interaction Design;University of California San Diego;Intermediate;Specialization;3 - 6 Months;3682
+350;Teaching with Art: Using Inquiry, Activities, and Themes;The Museum of Modern Art;Intermediate;Specialization;3 - 6 Months;4790
+351;1. åŸºç¤ŽçŸ¥è­˜ï¼šãƒ‡ãƒ¼ã‚¿ã¯ã‚ã‚‰ã‚†ã‚‹ã¨ã“ã‚ã«ã‚ã‚‹;Google;Beginner;Course;1 - 3 Months;2525
+352;Arts and Heritage Management;UniversitÃ  Bocconi;Mixed;Course;1 - 3 Months;1895
+353;Foundations of Data Science;Google;Advanced;Course;1 - 3 Months;3287
+354;Data Science Math Skills;Duke University;Beginner;Course;1 - 3 Months;1289
+355;SQL fÃ¼r Data Science;University of California, Davis;Beginner;Course;1 - 4 Weeks;1046
+356;The Power of Statistics;Google;Advanced;Course;1 - 3 Months;3621
+357;Data Science Foundations: Statistical Inference;University of Colorado Boulder;Intermediate;Specialization;3 - 6 Months;2085
+358;Foundations of Data Science: K-Means Clustering in Python;University of London;Beginner;Course;1 - 3 Months;4006
+359;Data Science Fundamentals;University of California, Irvine;Beginner;Specialization;3 - 6 Months;1792
+360;Applied Data Science with R;IBM;Beginner;Specialization;3 - 6 Months;1355
+361;Process Mining: Data science in Action;Eindhoven University of Technology;Intermediate;Course;1 - 3 Months;243
+362;Statistics for Data Science with Python;IBM;Mixed;Course;1 - 3 Months;4638
+363;Expressway to Data Science: Essential Math;University of Colorado Boulder;Intermediate;Specialization;3 - 6 Months;4288
+364;Data Science Coding Challenge: Loan Default Prediction;Coursera Project Network;Intermediate;Guided Project;Less Than 2 Hours;2828
+365;Code Free Data Science;University of California San Diego;Beginner;Course;1 - 4 Weeks;3835
+366;Python for Data Science;Fractal Analytics;Beginner;Course;1 - 3 Months;624
+367;Data Science Methods for Quality Improvement;University of Colorado Boulder;Intermediate;Specialization;3 - 6 Months;2914
+368;The Path to Insights: Data Models and Pipelines;Google;Advanced;Course;1 - 4 Weeks;352
+369;Python for Data Analysis: Pandas & NumPy;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;247
+370;Tidyverse Skills for Data Science in R;Johns Hopkins University;Beginner;Specialization;3 - 6 Months;1222
+371;Statistics For Data Science;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;1636
+372;Data Analytics for Lean Six Sigma;University of Amsterdam;Beginner;Course;1 - 3 Months;2146
+373;Data-driven Decision Making;PwC;Beginner;Course;1 - 4 Weeks;4575
+374;Introduction to Machine Learning;Duke University;Intermediate;Course;1 - 3 Months;2548
+375;Applied Data Science for Data Analysts;Databricks;Intermediate;Course;1 - 3 Months;1374
+376;Database systems;Universidad Nacional AutÃ³noma de MÃ©xico;Intermediate;Specialization;3 - 6 Months;3552
+377;Supply Chain Analytics;Rutgers the State University of New Jersey;Beginner;Specialization;3 - 6 Months;2139
+378;AnÃ¡lisis de Datos de Google;Google;Beginner;Professional Certificate;3 - 6 Months;754
+379;Bioinformatics;University of California San Diego;Beginner;Specialization;3 - 6 Months;783
+380;Information Visualization;New York University;Beginner;Specialization;3 - 6 Months;4107
+381;Data Literacy;Johns Hopkins University;Beginner;Specialization;3 - 6 Months;3797
+382;Exploratory Data Analysis With Python and Pandas;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;3126
+383;Methods and Statistics in Social Sciences;University of Amsterdam;Beginner;Specialization;3 - 6 Months;3913
+384;Research Data Management and Sharing;The University of North Carolina at Chapel Hill;Mixed;Course;1 - 3 Months;454
+385;Decisions, Decisions: Dashboards and Reports;Google;Advanced;Course;1 - 3 Months;3957
+386;Linear Algebra for Data Science Using Python;Howard University;Beginner;Specialization;3 - 6 Months;2413
+387;Get Started with Python;Google;Advanced;Course;1 - 3 Months;1530
+388;Foundations of Business Intelligence;Google;Advanced;Course;1 - 4 Weeks;4391
+389;Data Analysis Using Pyspark;Coursera Project Network;Intermediate;Guided Project;Less Than 2 Hours;1373
+390;Julia for Beginners in Data Science;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;338
+391;Python Data Products for Predictive Analytics;University of California San Diego;Intermediate;Specialization;3 - 6 Months;2589
+392;Materials Data Sciences and Informatics;Georgia Institute of Technology;Intermediate;Course;1 - 3 Months;2685
+393;Data Visualization & Dashboarding with R;Johns Hopkins University;Beginner;Specialization;3 - 6 Months;2259
+394;Neuroscience and Neuroimaging;Johns Hopkins University;Intermediate;Specialization;3 - 6 Months;1231
+395;SQL: A Practical Introduction for Querying Databases;IBM;Beginner;Course;1 - 3 Months;485
+396;ØªØ­Ù„ÙŠÙ„Ø§Øª Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª Ù…Ù† Google;Google;Beginner;Professional Certificate;3 - 6 Months;4792
+397;GIS, Mapping, and Spatial Analysis;University of Toronto;Beginner;Specialization;3 - 6 Months;3981
+398;SAS Visual Business Analytics;SAS;Beginner;Professional Certificate;3 - 6 Months;4770
+399;Python for Genomic Data Science;Johns Hopkins University;Mixed;Course;1 - 4 Weeks;981
+400;EstadÃ­stica y probabilidad;Universidad Nacional AutÃ³noma de MÃ©xico;Beginner;Course;1 - 4 Weeks;2430
+401;Introduction to Clinical Data Science;University of Colorado System;Intermediate;Course;1 - 4 Weeks;424
+402;Python 3 Programming;University of Michigan;Beginner;Specialization;3 - 6 Months;4325
+403;Data Analysis Using Python;University of Pennsylvania;Beginner;Course;1 - 4 Weeks;4699
+404;The Nature of Data and Relational Database Design;University of California, Irvine;Beginner;Course;1 - 4 Weeks;103
+405;Virtual Reality;University of London;Beginner;Specialization;3 - 6 Months;984
+406;R Programming;Johns Hopkins University;Intermediate;Course;1 - 4 Weeks;875
+407;Understanding Medical Research: Your Facebook Friend is Wrong;Yale University;Beginner;Course;1 - 3 Months;3259
+408;Essential Causal Inference Techniques for Data Science;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;922
+409;Computational Neuroscience;University of Washington;Beginner;Course;1 - 3 Months;2295
+410;The Arts and Science of Relationships: Understanding Human Needs;University of Toronto;Beginner;Course;1 - 3 Months;1087
+411;Analytics for Decision Making;University of Minnesota;Beginner;Specialization;3 - 6 Months;1983
+412;Narrative Economics;Yale University;Beginner;Course;1 - 4 Weeks;4687
+413;Julia Scientific Programming;University of Cape Town;Beginner;Course;1 - 4 Weeks;4183
+414;Introduction to Artificial Intelligence (AI);IBM;Beginner;Course;1 - 4 Weeks;1524
+415;NLP: Twitter Sentiment Analysis;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;3277
+416;Ciclo completo del desarrollo de un proyecto de Data Science;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;4000
+417;Statistical Inference for Estimation in Data Science;University of Colorado Boulder;Intermediate;Course;1 - 3 Months;121
+418;Sequences, Time Series and Prediction;DeepLearning.AI;Intermediate;Course;1 - 4 Weeks;3751
+419;Introduction to Relational Database and SQL;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;695
+420;Data Processing Using Python;Nanjing University;Beginner;Course;1 - 3 Months;1209
+421;MLOps | Machine Learning Operations;Duke University;Advanced;Specialization;3 - 6 Months;2339
+422;Perform data science with Azure Databricks;Microsoft;Intermediate;Course;1 - 3 Months;2897
+423;Data Analysis with SQL: Inform a Business Decision;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;3163
+424;Python Packages for Data Science;University of Colorado Boulder;Intermediate;Course;1 - 4 Weeks;2388
+425;Econometrics: Methods and Applications;Erasmus University Rotterdam;Mixed;Course;1 - 3 Months;396
+426;Understanding and Visualizing Data with Python;University of Michigan;Beginner;Course;1 - 4 Weeks;1939
+427;Data Visualization with Advanced Excel;PwC;Beginner;Course;1 - 4 Weeks;3708
+428;Statistical Inference and Hypothesis Testing in Data Science Applications;University of Colorado Boulder;Intermediate;Course;1 - 3 Months;3486
+429;An Intuitive Introduction to Probability;University of Zurich;Beginner;Course;1 - 3 Months;2529
+430;Data Collection and Processing with Python;University of Michigan;Intermediate;Course;1 - 4 Weeks;1911
+431;Prepare Data for Exploration;Google;Beginner;Course;1 - 3 Months;580
+432;Introduction to Microsoft Excel;Coursera Project Network;Intermediate;Guided Project;Less Than 2 Hours;144
+433;Python Project for Data Engineering;IBM;Intermediate;Course;1 - 4 Weeks;3805
+434;Practical Data Science with MATLAB;MathWorks;Beginner;Specialization;3 - 6 Months;1198
+435;IBM Data Analyst Capstone Project;IBM;Intermediate;Course;1 - 3 Months;1130
+436;Spark, Hadoop, and Snowflake for Data Engineering;Duke University;Advanced;Course;1 - 4 Weeks;4595
+437;Cloud Computing;University of Illinois at Urbana-Champaign;Intermediate;Specialization;3 - 6 Months;2634
+438;Leverage Data Science for a More Agile Supply Chain;University of California, Irvine;Intermediate;Specialization;1 - 3 Months;3909
+439;Essential Linear Algebra for Data Science;University of Colorado Boulder;Intermediate;Course;1 - 3 Months;4682
+440;SQL for Data Science Capstone Project;University of California, Davis;Intermediate;Course;1 - 4 Weeks;3498
+441;Spatial Data Science and Applications;Yonsei University;Intermediate;Course;1 - 3 Months;4305
+442;Command Line Tools for Genomic Data Science;Johns Hopkins University;Mixed;Course;1 - 4 Weeks;547
+443;Statistics for Genomic Data Science;Johns Hopkins University;Mixed;Course;1 - 4 Weeks;3165
+444;Integral Calculus and Numerical Analysis for Data Science;University of Colorado Boulder;Intermediate;Course;1 - 4 Weeks;2264
+445;Advanced Linear Models for Data Science 1: Least Squares;Johns Hopkins University;Advanced;Course;1 - 3 Months;1501
+446;Prepare for DP-100: Data Science on Microsoft Azure Exam;Microsoft;Intermediate;Course;1 - 3 Months;3839
+447;Executive Data Science Capstone;Johns Hopkins University;Mixed;Course;1 - 4 Weeks;571
+448;Advanced Linear Models for Data Science 2: Statistical Linear Models;Johns Hopkins University;Advanced;Course;1 - 4 Weeks;1739
+449;Data Science Fundamentals for Data Analysts;Databricks;Intermediate;Course;1 - 3 Months;4914
+450;Data Science Project: MATLAB for the Real World;MathWorks;Intermediate;Course;1 - 4 Weeks;1060
+451;Data Science Capstone;Johns Hopkins University;Mixed;Course;1 - 3 Months;4158
+452;Introduction to Networking and Storage;IBM;Beginner;Course;1 - 3 Months;1114
+453;Networking Fundamentals;Akamai Technologies, Inc.;Beginner;Course;1 - 3 Months;2227
+454;Computer Communications;University of Colorado System;Intermediate;Specialization;3 - 6 Months;447
+455;Network Automation Engineering Fundamentals;Cisco Learning and Certifications;Beginner;Specialization;3 - 6 Months;2090
+456;Akamai Network Engineering;Akamai Technologies, Inc.;Beginner;Professional Certificate;3 - 6 Months;593
+457;Cybersecurity Operations Fundamentals;Cisco Learning and Certifications;Beginner;Specialization;3 - 6 Months;3575
+458;Create a Profile and Network on LinkedIn;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;2327
+459;Introduction to TCP/IP;Yonsei University;Beginner;Course;1 - 3 Months;4129
+460;Palo Alto Networks Cybersecurity;Palo Alto Networks;Beginner;Professional Certificate;3 - 6 Months;1087
+461;Get Started with Figma;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;4741
+462;Career Discovery;University System of Georgia;Beginner;Specialization;3 - 6 Months;3304
+463;Network Defense Essentials (NDE);EC-Council;Beginner;Course;1 - 3 Months;4480
+464;Introduction to CRM with HubSpot;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;4621
+465;Networks and Communications Security;ISC2;Beginner;Course;1 - 3 Months;715
+466;Neural Network from Scratch in TensorFlow;Coursera Project Network;Intermediate;Guided Project;Less Than 2 Hours;4763
+467;IBM Business Intelligence (BI) Analyst;SkillUp EdTech;Beginner;Professional Certificate;3 - 6 Months;4692
+468;Google Cloud Database Engineer;Google Cloud;Intermediate;Specialization;3 - 6 Months;3536
+469;Preparing for Google Cloud Certification: Cloud DevOps Engineer;Google Cloud;Beginner;Professional Certificate;3 - 6 Months;576
+470;AI for Medicine;DeepLearning.AI;Intermediate;Specialization;1 - 3 Months;4317
+471;TensorFlow: Advanced Techniques;DeepLearning.AI;Intermediate;Specialization;3 - 6 Months;1172
+472;Google Cloud Fundamentals: Core Infrastructure;Google Cloud;Beginner;Course;1 - 3 Months;3311
+473;Introduction to Cloud Computing;IBM;Beginner;Course;1 - 3 Months;3997
+474;Configuration Management and the Cloud;Google;Beginner;Course;1 - 4 Weeks;3950
+475;Introduction to Microsoft Azure Cloud Services;Microsoft;Beginner;Course;1 - 4 Weeks;743
+476;AWS Cloud Practitioner Essentials;Amazon Web Services;Beginner;Course;1 - 3 Months;1544
+477;Cloud Computing Basics (Cloud 101);LearnQuest;Beginner;Course;1 - 3 Months;2993
+478;Digital Transformation Using AI/ML with Google Cloud;Google Cloud;Beginner;Specialization;3 - 6 Months;4945
+479;Cloud-Native Development with OpenShift and Kubernetes;Red Hat;Intermediate;Specialization;3 - 6 Months;3755
+480;Essential Google Cloud Infrastructure: Foundation;Google Cloud;Intermediate;Course;1 - 4 Weeks;4137
+481;Moving to the Cloud;The University of Melbourne;Beginner;Course;1 - 3 Months;3472
+482;Google Cloud Digital Leader Training;Google Cloud;Beginner;Professional Certificate;3 - 6 Months;4238
+483;Internet of Things and AI Cloud;University of California San Diego;Intermediate;Specialization;3 - 6 Months;3689
+484;Create a Virtual Private Cloud (VPC) Using AWS;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;2870
+485;Building Scalable Java Microservices with Spring Boot and Spring Cloud;Google Cloud;Intermediate;Course;1 - 4 Weeks;1282
+486;Preparing for your Professional Cloud Architect Journey;Google Cloud;Advanced;Course;1 - 3 Months;4409
+487;Getting started with Google Workspace;Google Cloud;Beginner;Specialization;3 - 6 Months;3606
+488;Starting Your Career with AWS Cloud;Amazon Web Services;Beginner;Specialization;1 - 3 Months;498
+489;Managing Cloud-native Applications with Kubernetes;Red Hat;Intermediate;Course;1 - 4 Weeks;3936
+490;Fundamentals of Cloud Computing;LearnQuest;Mixed;Course;1 - 4 Weeks;2432
+491;Exam Prep: AWS Certified Cloud Practitioner Foundations;Amazon Web Services;Beginner;Course;1 - 4 Weeks;3727
+492;Introduction to SQL for BigQuery and Cloud SQL;Google Cloud;Beginner;Project;Less Than 2 Hours;1722
+493;Google Cloud Product Fundamentals en EspaÃ±ol;Google Cloud;Beginner;Course;1 - 3 Months;1779
+494;App Deployment, Debugging, and Performance;Google Cloud;Intermediate;Course;1 - 3 Months;160
+495;Understanding Google Cloud Security and Operations;Google Cloud;Beginner;Course;1 - 3 Months;3495
+496;Foundations of Red Hat Cloud-native Development;Red Hat;Intermediate;Course;1 - 4 Weeks;3949
+497;Essential Cloud Infrastructure: Core Services æ—¥æœ¬èªžç‰ˆ;Google Cloud;Intermediate;Course;1 - 3 Months;2632
+498;Elastic Cloud Infrastructure: Scaling and Automation em PortuguÃªs Brasileiro;Google Cloud;Intermediate;Course;1 - 3 Months;2082
+499;Innovating with Data and Google Cloud;Google Cloud;Beginner;Course;1 - 3 Months;538
+500;Mitigating Security Vulnerabilities on Google Cloud;Google Cloud;Intermediate;Course;1 - 4 Weeks;4001
+501;Google Cloud Big Data and Machine Learning Fundamentals;Google Cloud;Beginner;Course;1 - 3 Months;2394
+502;Introduction to Containers w/ Docker, Kubernetes & OpenShift;IBM;Intermediate;Course;1 - 3 Months;1615
+503;Reliable Cloud Infrastructure: Design and Process æ—¥æœ¬èªžç‰ˆ;Google Cloud;Intermediate;Course;1 - 3 Months;4756
+504;Getting Started with Terraform for Google Cloud;Google Cloud;Beginner;Course;1 - 3 Months;3391
+505;API Security on Google Cloud's Apigee API Platform;Google Cloud;Beginner;Course;1 - 4 Weeks;1719
+506;Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure;University of Illinois at Urbana-Champaign;Intermediate;Course;1 - 3 Months;4782
+507;Google Cloud Fundamentals: Core Infrastructure dalam bahasa Indonesia;Google Cloud;Beginner;Course;1 - 3 Months;4460
+508;API Development on Google Cloud's Apigee API Platform;Google Cloud;Beginner;Course;1 - 3 Months;1157
+509;Reliable Cloud Infrastructure: Design and Process em PortuguÃªs Brasileiro;Google Cloud;Intermediate;Course;1 - 3 Months;772
+510;Getting Started With Application Development;Google Cloud;Intermediate;Course;1 - 3 Months;4203
+511;Elastic Cloud Infrastructure: Scaling and Automation æ—¥æœ¬èªžç‰ˆ;Google Cloud;Intermediate;Course;1 - 3 Months;617
+512;Organizational Change and Culture for Adopting Google Cloud;Google Cloud;Beginner;Specialization;3 - 6 Months;1261
+513;Logging and Monitoring in Google Cloud;Google Cloud;Beginner;Course;1 - 3 Months;3291
+514;Modernizing Data Lakes and Data Warehouses with Google Cloud;Google Cloud;Intermediate;Course;1 - 3 Months;1358
+515;Google Cloud Fundamentals: Core Infrastructure en FranÃ§ais;Google Cloud;Beginner;Course;1 - 3 Months;1094
+516;Cloud Networking;University of Illinois at Urbana-Champaign;Mixed;Course;1 - 3 Months;3573
+517;Essential Cloud Infrastructure: Core Services em PortuguÃªs Brasileiro;Google Cloud;Intermediate;Course;1 - 3 Months;3355
+518;Cloud Systems Software;Georgia Institute of Technology;Mixed;Course;1 - 3 Months;4995
+519;Alibaba Cloud Computing;Alibaba Cloud Academy;Beginner;Specialization;3 - 6 Months;2457
+520;Spring - Cloud Overview;LearnQuest;Intermediate;Course;1 - 4 Weeks;551
+521;Infrastructure and Application Modernization with Google Cloud;Google Cloud;Beginner;Course;1 - 3 Months;379
+522;Elastic Cloud Infrastructure: Scaling and Automation en EspaÃ±ol;Google Cloud;Intermediate;Course;1 - 3 Months;385
+523;Developing Cloud Native Applications;IBM;Intermediate;Course;1 - 3 Months;500
+524;Developing Applications with Google Cloud æ—¥æœ¬èªžç‰ˆ;Google Cloud;Intermediate;Specialization;3 - 6 Months;3201
+525;Applying Machine Learning to your Data with Google Cloud;Google Cloud;Beginner;Course;1 - 3 Months;1798
+526;Serverless Data Processing with Dataflow;Google Cloud;Intermediate;Specialization;3 - 6 Months;2744
+527;Essential Cloud Infrastructure: Foundation - FranÃ§ais;Google Cloud;Intermediate;Course;1 - 3 Months;893
+528;Cloud Virtualization, Containers and APIs;Duke University;Beginner;Course;1 - 4 Weeks;2112
+529;Microsoft Azure for Data Engineering;Microsoft;Intermediate;Course;1 - 4 Weeks;2909
+530;Google Cloud Infrastructure for Azure Professionals;Google Cloud;Intermediate;Specialization;1 - 3 Months;2275
+531;Gmail;Google Cloud;Beginner;Course;1 - 3 Months;413
+532;Developing Cloud Apps with Node.js and React;IBM;Intermediate;Course;1 - 3 Months;165
+533;Essential Cloud Infrastructure: Foundation - Bahasa Indonesia;Google Cloud;Intermediate;Course;1 - 4 Weeks;4311
+534;Deploying SAP on Google Cloud;Google Cloud;Beginner;Course;1 - 3 Months;2436
+535;Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate en EspaÃ±ol;Google Cloud;Intermediate;Specialization;3 - 6 Months;842
+536;TensorFlow on Google Cloud;Google Cloud;Intermediate;Course;1 - 3 Months;2405
+537;Google Cloud Digital Leader Training æ—¥æœ¬èªžç‰ˆ;Google Cloud;Beginner;Specialization;3 - 6 Months;601
+538;Preparing for Your Associate Cloud Engineer Journey en EspaÃ±ol;Google Cloud;Intermediate;Course;1 - 3 Months;111
+539;On Premises Installation and Fundamentals with Google Cloud's Apigee API Platform;Google Cloud;Beginner;Course;1 - 4 Weeks;3113
+540;Data Engineer, Big Data and ML on Google Cloud em PortuguÃªs;Google Cloud;Intermediate;Specialization;3 - 6 Months;4290
+541;On Premises Capacity Upgrade and Monitoring with Google Cloud's Apigee API Platform;Google Cloud;Beginner;Course;1 - 4 Weeks;2441
+542;Business Transformation with Google Cloud en EspaÃ±ol;Google Cloud;Beginner;Course;1 - 3 Months;3125
+543;Fintech: Foundations & Applications of Financial Technology;University of Pennsylvania;Beginner;Specialization;3 - 6 Months;2508
+544;FinTech: Foundations, Payments, and Regulations;University of Pennsylvania;Beginner;Course;1 - 4 Weeks;475
+545;Financial Technology (Fintech) Innovations;University of Michigan;Beginner;Specialization;3 - 6 Months;812
+546;The Future of Payment Technologies;University of Michigan;Beginner;Course;1 - 4 Weeks;3639
+547;FinTech Law and Policy;Duke University;Beginner;Course;1 - 3 Months;438
+548;FinTech: Finance Industry Transformation and Regulation;The Hong Kong University of Science and Technology;Beginner;Specialization;3 - 6 Months;4275
+549;FinTech Foundations and Overview;The Hong Kong University of Science and Technology;Beginner;Course;1 - 4 Weeks;2313
+550;Fintech Startups in Emerging Markets;University of Cape Town;Beginner;Specialization;3 - 6 Months;2670
+551;Digital Transformation in Financial Services;Copenhagen Business School;Beginner;Specialization;3 - 6 Months;1349
+552;Decentralized Finance (DeFi): The Future of Finance;Duke University;Intermediate;Specialization;3 - 6 Months;2969
+553;How Software Ate Finance;Stanford University;Mixed;Course;1 - 3 Months;2909
+554;FinTech Security and Regulation (RegTech);The Hong Kong University of Science and Technology;Beginner;Course;1 - 3 Months;1738
+555;FinTech and the Transformation in Financial Services;Copenhagen Business School;Beginner;Course;1 - 3 Months;3966
+556;Python and Statistics for Financial Analysis;The Hong Kong University of Science and Technology;Intermediate;Course;1 - 4 Weeks;958
+557;Supply Chain Finance Market and Fintech Ecosystem;New York Institute of Finance;Intermediate;Course;1 - 4 Weeks;4883
+558;FinTech Risk Management;The Hong Kong University of Science and Technology;Beginner;Course;1 - 3 Months;2688
+559;Supply Chain Finance and Blockchain Technology;New York Institute of Finance;Intermediate;Specialization;3 - 6 Months;246
+560;Financial Regulation in Emerging Markets and the Rise of Fintech Companies;University of Cape Town;Beginner;Course;1 - 4 Weeks;3146
+561;Economics of Money and Banking;Columbia University;Mixed;Course;3 - 6 Months;4908
+562;Raising Capital: Credit Tech, Coin Offerings, and Crowdfunding;University of Michigan;Beginner;Course;1 - 4 Weeks;4909
+563;Banking and Financial Institutions;University of Illinois at Urbana-Champaign;Intermediate;Course;1 - 3 Months;2231
+564;Application of AI, InsurTech, and Real Estate Technology;University of Pennsylvania;Mixed;Course;1 - 4 Weeks;4040
+565;Lending, Crowdfunding, and Modern Investing;University of Pennsylvania;Beginner;Course;1 - 4 Weeks;1803
+566;Blockchain Revolution;INSEAD;Beginner;Specialization;3 - 6 Months;2014
+567;Blockchain Revolution in Financial Services;INSEAD;Beginner;Specialization;3 - 6 Months;4717
+568;Building Fintech Startups in Emerging Markets;University of Cape Town;Beginner;Course;1 - 4 Weeks;3925
+569;Entrepreneurial Finance: Strategy and Innovation;Duke University;Intermediate;Specialization;3 - 6 Months;879
+570;Decentralized Finance (DeFi) Opportunities and Risks;Duke University;Intermediate;Course;1 - 3 Months;1961
+571;Decentralized Finance (DeFi) Infrastructure;Duke University;Beginner;Course;1 - 4 Weeks;2290
+572;Blockchain Business Models;Duke University;Intermediate;Course;1 - 3 Months;4952
+573;Introduction to Blockchain for Financial Services;INSEAD;Beginner;Course;1 - 3 Months;4175
+574;Creating and Developing a Tech Startup;Ã‰cole Polytechnique;Mixed;Course;1 - 3 Months;2949
+575;Agile with Atlassian Jira;Atlassian;Beginner;Course;1 - 4 Weeks;2671
+576;How Entrepreneurs in Emerging Markets can master the Blockchain Technology;University of Cape Town;Beginner;Course;1 - 4 Weeks;2209
+577;Marketing Digital;Universidade de SÃ£o Paulo;Beginner;Course;1 - 3 Months;1267
+578;Financing for Startup Businesses;Duke University;Intermediate;Course;1 - 4 Weeks;4917
+579;Innovations in Investment Technology: Artificial Intelligence;University of Michigan;Beginner;Course;1 - 4 Weeks;4940
+580;Blockchain and Business;INSEAD;Mixed;Course;1 - 3 Months;1592
+581;Introduction to Blockchain;Association of International Certified Professional Accountants;Beginner;Specialization;1 - 3 Months;3292
+582;Information Systems Auditing, Controls and Assurance;The Hong Kong University of Science and Technology;Beginner;Course;1 - 4 Weeks;2364
+583;Blockchain Transformations of Financial Services;INSEAD;Beginner;Course;1 - 4 Weeks;1477
+584;Cryptocurrency and Blockchain: An Introduction to Digital Currencies;University of Pennsylvania;Mixed;Course;1 - 4 Weeks;1041
+585;Decentralized Finance (DeFi) Primitives;Duke University;Intermediate;Course;1 - 4 Weeks;1952
+586;Web3 and Blockchain in Global Commerce;INSEAD;Beginner;Specialization;3 - 6 Months;1959
+587;Blockchain, Cryptoassets, and Decentralized Finance;INSEAD;Beginner;Course;1 - 4 Weeks;1315
+588;Creative Writing;Wesleyan University;Beginner;Specialization;3 - 6 Months;913
+589;Managing Emotions in Times of Uncertainty & Stress;Yale University;Beginner;Course;1 - 3 Months;3648
+590;UI / UX Design;California Institute of the Arts;Beginner;Specialization;3 - 6 Months;2041
+591;Creating a Free Business Page with Blogger;Coursera Project Network;Beginner;Guided Project;Less Than 2 Hours;1684
+592;L'investissement Ã  impact, la finance qui change le monde;ESSEC Business School;Beginner;Specialization;3 - 6 Months;1459
+593;Customer Service Fundamentals;Knowledge Accelerators;Beginner;Course;1 - 4 Weeks;4776
+594;1.- El CÃ¡lculo - Modelo Lineal;TecnolÃ³gico de Monterrey;Mixed;Course;1 - 4 Weeks;4974
+595;Introduction to Statistics;Stanford University;Beginner;Course;1 - 3 Months;741
+596;Finding Your Professional Voice: Confidence & Impact;University of London;Beginner;Course;1 - 4 Weeks;3226
+597;FinanÃ§as Orientada a Dados;FundaÃ§Ã£o Instituto de AdministraÃ§Ã£o;Beginner;Course;1 - 4 Weeks;1829
+598;Intelligence Tools for the Digital Age;IE Business School;Beginner;Course;1 - 4 Weeks;163
+599;Public Speaking with Canva;Coursera Project Network;Intermediate;Guided Project;Less Than 2 Hours;598
+600;Learning How to Learn: Powerful mental tools to help you master tough subjects;Deep Teaching Solutions;Beginner;Course;1 - 4 Weeks;4085
+601;Cybersecurity Compliance Framework & System Administration;IBM;Beginner;Course;1 - 3 Months;2961
+602;Investment Banking: Financial Analysis and Valuation;University of Illinois at Urbana-Champaign;Intermediate;Course;1 - 3 Months;3930
+603;Work Smarter with Microsoft Word;Microsoft;Beginner;Course;1 - 3 Months;2941
+604;3.- El CÃ¡lculo - Modelo CÃºbico;TecnolÃ³gico de Monterrey;Mixed;Course;1 - 4 Weeks;4281
+605;Digital Manufacturing & Design Technology;University at Buffalo;Beginner;Specialization;3 - 6 Months;3680
+606;Cyber Incident Response;Infosec;Beginner;Specialization;3 - 6 Months;4715
+607;GestiÃ³n de proyectos con la metodologÃ­a Agile;Google;Beginner;Course;1 - 4 Weeks;1836
+608;Teach English Now! Technology Enriched Teaching;Arizona State University;Beginner;Course;1 - 3 Months;781
+609;Faster Together, Enhancing the Recruitment of Marginalized Communities in Clinical Trials;Vanderbilt University;Beginner;Course;1 - 3 Months;3500
+610;Web3 and Blockchain Leadership for Transformation;INSEAD;Beginner;Course;1 - 3 Months;2059
+611;Cybersecurity for Everyone;University of Maryland, College Park;Beginner;Course;1 - 3 Months;4245
+612;International Security Management;Erasmus University Rotterdam;Beginner;Course;1 - 3 Months;1959
+613;Python for Cybersecurity;Infosec;Intermediate;Specialization;3 - 6 Months;4241
+614;Network Security;Cisco Learning and Certifications;Mixed;Course;1 - 4 Weeks;2238
+615;Security & Safety Challenges in a Globalized World;Universiteit Leiden;Beginner;Course;1 - 3 Months;970
+616;JavaScript Security;Infosec;Intermediate;Specialization;1 - 3 Months;2174
+617;Cryptography I;Stanford University;Mixed;Course;1 - 3 Months;474
+618;Security Operations Center (SOC);Cisco Learning and Certifications;Mixed;Course;1 - 3 Months;1085
+619;Security Awareness Training;ISC2;Beginner;Course;1 - 3 Months;1447
+620;Security Governance & Compliance;University of California, Irvine;Mixed;Course;1 - 4 Weeks;4290
+621;Cybersecurity and Mobility;University System of Georgia;Beginner;Course;1 - 4 Weeks;3039
+622;Security Operations;ISC2;Beginner;Course;1 - 3 Months;1838
+623;Security Principles;ISC2;Beginner;Course;1 - 3 Months;1334
+624;Google Workspace Security;Google Cloud;Beginner;Course;1 - 4 Weeks;1537
+625;Cybersecurity for Tech Professionals;Campus BBVA;Intermediate;Course;1 - 3 Months;4000
+626;Cybersecurity in the Cloud;University of Minnesota;Beginner;Specialization;3 - 6 Months;959
+627;Applied Cryptography;University of Colorado System;Intermediate;Specialization;3 - 6 Months;3683
+628;Python for Active Defense;Infosec;Intermediate;Course;1 - 4 Weeks;4199
