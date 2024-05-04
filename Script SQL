@@ -1,0 +1,121 @@
+CREATE DATABASE EpicodeOLTP
+CREATE DATABASE TestFinale
+
+USE TestFinale
+
+
+--CREAZIONE DELLE TABELLE
+
+CREATE TABLE dimAnagrafica (
+PERID INT NOT NULL
+, Name VARCHAR (25)
+, Gender VARCHAR (5)
+, Mail VARCHAR(50)
+, BirthDate DATE
+, HiringDate DATE
+, CONSTRAINT PK_PERID PRIMARY KEY (PERID)
+)
+
+CREATE TABLE dimRole (
+RoleID INT NOT NULL
+, Role VARCHAR(50)
+CONSTRAINT PK_RoleID PRIMARY KEY (RoleID)
+)
+
+CREATE TABLE dimGeography (
+GeoID INT NOT NULL
+, RegionName VARCHAR(50)
+CONSTRAINT PK_GeoID PRIMARY KEY (GeoID)
+)
+
+
+--PROCEDURA DI AGGIORNAMENTO
+
+CREATE PROCEDURE AggiornamentoDWH
+AS 
+BEGIN
+--Aggiornamento Anagrafica
+-- 1) eliminare i dati all'interno
+TRUNCATE TABLE dimAnagrafica;
+
+-- 2) inserire i valori di ID
+INSERT INTO dimAnagrafica (PERID)
+SELECT e.Perid
+FROM EpicodeOLTP.dbo.NamesOLTP AS e;
+
+-- Aggiornamento di Name
+UPDATE dimAnagrafica
+SET dimAnagrafica.Name = e.PersonName
+FROM dimAnagrafica
+JOIN EpicodeOLTP.dbo.NamesOLTP AS e ON dimAnagrafica.PERID = e.PERID;
+
+--Aggiornamento di Gender
+UPDATE dimAnagrafica
+SET dimAnagrafica.Gender = g.Gender
+FROM dimAnagrafica
+JOIN EpicodeOLTP.dbo.GenderOLTP AS g ON dimAnagrafica.PERID = g.[Index];
+
+--Aggiornamento di Mail
+UPDATE a
+SET a.Mail = m.Mail
+FROM dimAnagrafica AS a
+JOIN EpicodeOLTP.dbo.MailOLTP AS m ON a.PERID = m.[index];
+
+--Aggiornamento di BirthDate
+UPDATE dimAnagrafica
+SET dimAnagrafica.BirthDate = b.BirthDate
+FROM dimAnagrafica
+JOIN EpicodeOLTP.dbo.BirthOLTP AS b ON dimAnagrafica.PERID = b.[Index];
+
+--Aggiornamento di HiringDate
+UPDATE dimAnagrafica
+SET dimAnagrafica.HiringDate = h.HiringDate
+FROM dimAnagrafica
+JOIN EpicodeOLTP.dbo.HiringOLTP AS h ON dimAnagrafica.PERID = h.[Index];
+
+--Aggiornamento Geografia
+-- 1) eliminare i dati all'interno
+TRUNCATE TABLE dimGeography;
+
+-- 2) inserire i valori di ID
+INSERT INTO dimGeography (GeoID)
+SELECT r.RegionID
+FROM EpicodeOLTP.dbo.RegionOLTP AS r;
+
+-- Aggiornamento Region
+UPDATE dimGeography
+SET dimGeography.RegionName = r.Region
+FROM dimGeography
+JOIN EpicodeOLTP.dbo.RegionOLTP AS r ON dimGeography.GeoID = r.RegionID;
+
+--Aggiornamento Roles
+-- 1) eliminare i dati all'interno
+TRUNCATE TABLE dimRole;
+
+-- 2) inserire i valori di ID
+INSERT INTO dimRole (RoleID)
+SELECT r.DptID
+FROM EpicodeOLTP.dbo.RoleOLTP AS r;
+
+--Aggiornamento Role
+UPDATE dimRole
+SET dimRole.[Role] = r.[Function]
+FROM dimRole
+JOIN EpicodeOLTP.dbo.RoleOLTP AS r ON dimRole.RoleID = r.DptID;
+
+END
+
+EXEC AggiornamentoDWH
+
+
+--FOREIGN KEY
+
+ALTER TABLE dimRoleGeography
+ADD CONSTRAINT FK_IndexPERID FOREIGN KEY ([Index]) REFERENCES dimAnagrafica (PERID)
+
+ALTER TABLE dimRoleGeography
+ADD CONSTRAINT FK_RegionRegionName FOREIGN KEY (Region) REFERENCES dimGeography (GeoID)
+
+ALTER TABLE dimRoleGeography
+ADD CONSTRAINT FK_RoleRoleID FOREIGN KEY ([Role]) REFERENCES dimRole (RoleID)
+
